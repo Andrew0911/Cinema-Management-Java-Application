@@ -8,7 +8,7 @@ Aplicația are ca scop gesionarea unui cinematograf, utilizând o abordare de pr
 
   - Adăugarea unui film nou în lista filmelor
 
-  - Adăugare bilete în coșul de cumpărături
+  - Adăugarea biletelor în coșul de cumpărături
 
   - Aplicarea discount-urilor în funcție de tipul utilizatorului
 
