@@ -16,7 +16,7 @@ Aplicația are ca scop gesionarea unui cinematograf, utilizând o abordare de pr
 
   - Sortarea biletelor utilizatorului după preț
 
-  - Verificare promoție ( dacă utilizatorul cumpără 2 sau mai multe bilete de același tip la acelasi film, va primi un bilet cadou )
+  - Verificare promoție ( dacă utilizatorul cumpără 2 sau mai multe bilete de același tip la același film, va primi un bilet cadou )
 
   - Listare meniu bar
 
@@ -26,9 +26,9 @@ Aplicația are ca scop gesionarea unui cinematograf, utilizând o abordare de pr
 
 ## Utilizarea aplicației :
 
-  - La pornirea aplicației, userului i se solicita sa introduca cateva date personale, care vor conduce la aplicari particularizate ale discount-urilor si diferite promotii.
+  - La pornirea aplicației, userului i se solicită să introducă câteva date personale, care vor conduce la aplicări particularizate ale discount-urilor și diferite promoții.
   
-  - Apoi se va afisa meniul de optiuni, pana cand utilizatorul apasa tasta 0 ( EXIT ).
+  - Apoi se va afișa meniul de opțiuni, până când utilizatorul apasă tasta 0 ( EXIT ).
   
 
 
